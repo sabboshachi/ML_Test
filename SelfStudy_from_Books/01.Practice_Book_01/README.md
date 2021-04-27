@@ -1,4 +1,4 @@
 # শূন্য থেকে পাইথন মেশিন লার্নিং : হাতেকলমে সাইকিট-লার্ন 
 ### (by Rakibul Hassan)
 
-<center><img src ="https://images.unsplash.com/photo-1416138645715-930585fe4ce2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" title="turtle"></center>
+<img src ="https://gblobscdn.gitbook.com/assets%2F-LBKRrYA0FHxhMmdz6es%2F-Lja5mvNj7Tc1PZnNLoK%2F-Lja7uEyXqyqB4CHf8Dn%2FShunno-Thek-Python-Machine-Learning-Cover-Final-05-07-2019.png?alt=media&token=e7af5eaa-2506-4aa7-91a7-7a93efbd7403" title="turtle">
