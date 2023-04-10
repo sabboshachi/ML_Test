@@ -13,6 +13,6 @@
 9. [Melbourne House Dataset Solve](https://github.com/sabboshachi/Machine_Learning/tree/main/Practice/V2.02.%20Melbourne%20House%20Dataset%20Solve)
 
 
-# Machine Learning Projects 
+# Machine Learning Projects [LINK](https://github.com/sabboshachi/Personal_Projects/tree/main/Machine%20Learning%20Projects)
 
 
