@@ -10,7 +10,7 @@ In this repository, I am embarking on an exciting data science and machine learn
 
 ## The repository's chapter list:
 
-01. Introduction
+01. [Introduction](https://github.com/sabboshachi/Machine_Learning/blob/main/03.%20Data%20Science%20from%20Scratch%20by%20Joel%20Grus/Chapter%2001.ipynb)
 02. A Crash Course in Python
 03. Visualizing Data
 04. Linear Algebra
