@@ -1,12 +1,12 @@
 # Data Science from Scratch
 In this repository, I am embarking on an exciting data science and machine learning learning journey by following the insightful guidance of "Data Science from Scratch" by Joel Grus. This book serves as a comprehensive resource to master the foundational principles of data science and machine learning, and it offers a wide range of key features and chapters, including:
 
--- A swift introduction to Python for beginners.
--- Essential concepts in linear algebra, statistics, and probability, providing a solid foundation for data science applications.
--- Techniques for data collection, exploration, cleaning, and manipulation.
--- Fundamental machine learning concepts and principles.
--- Hands-on implementation of various models, such as k-nearest neighbors, Naive Bayes, linear and logistic regression, decision trees, neural networks, and clustering.
--- Exploring advanced topics like recommender systems, natural language processing, network analysis, MapReduce, and databases.
+  -- A swift introduction to Python for beginners.
+  -- Essential concepts in linear algebra, statistics, and probability, providing a solid foundation for data science applications.
+  -- Techniques for data collection, exploration, cleaning, and manipulation.
+  -- Fundamental machine learning concepts and principles.
+  -- Hands-on implementation of various models, such as k-nearest neighbors, Naive Bayes, linear and logistic regression, decision trees, neural networks, and clustering.
+  -- Exploring advanced topics like recommender systems, natural language processing, network analysis, MapReduce, and databases.
 
 ## The repository's chapter list:
 
