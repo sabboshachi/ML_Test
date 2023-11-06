@@ -1,18 +1,41 @@
-# Data Science & Machine Learning Courses
+# Data Science from Scratch
+In this repository, I am embarking on an exciting data science and machine learning learning journey by following the insightful guidance of "Data Science from Scratch" by Joel Grus. This book serves as a comprehensive resource to master the foundational principles of data science and machine learning, and it offers a wide range of key features and chapters, including:
 
-# Machine Learning Practice
+  - A swift introduction to Python for beginners.
+  - Essential concepts in linear algebra, statistics, and probability, providing a solid foundation for data science applications.
+  - Techniques for data collection, exploration, cleaning, and manipulation.
+  - Fundamental machine learning concepts and principles.
+  - Hands-on implementation of various models, such as k-nearest neighbors, Naive Bayes, linear and logistic regression, decision trees, neural networks, and clustering.
+  - Exploring advanced topics like recommender systems, natural language processing, network analysis, MapReduce, and databases.
 
-01. [BD Stock Market Prediction with LSTM](https://github.com/sabboshachi/Machine_Learning/tree/main/01.%20BD%20Stock%20Market%20Prediction%20with%20LSTM)
-02. [30 Days of Machine Learning by Tamim Shahriar](https://github.com/sabboshachi/Machine_Learning/tree/main/02.%2030%20Days%20of%20Machine%20Learning%20by%20Tamim%20Shahriar)
-3. [CaliforniaHouseRent_LinearRegression](https://github.com/sabboshachi/Machine_Learning/tree/main/Practice/01_CaliforniaHouseRent_LinearRegression)
-4. [GlassDS_LinearRegression](https://github.com/sabboshachi/Machine_Learning/tree/main/Practice/02_GlassDS_LinearRegression)
-5. [IrishDS_LogisticRegression](https://github.com/sabboshachi/Machine_Learning/tree/main/Practice/03_IrishDS_LogisticRegression)
-6. [InsurenceDS_FeatureEngineering](https://github.com/sabboshachi/Machine_Learning/tree/main/Practice/04_InsurenceDS_FeatureEngineering)
-7. [Data_Unterstanding_&_Visualization](https://github.com/sabboshachi/Machine_Learning/tree/main/Practice/05_Data_Unterstanding_%26_Visualization)
-8. [Irish Dataset Solving_V2](https://github.com/sabboshachi/Machine_Learning/tree/main/Practice/V2.01.%20Irish%20Dataset%20Solving)
-9. [Melbourne House Dataset Solve](https://github.com/sabboshachi/Machine_Learning/tree/main/Practice/V2.02.%20Melbourne%20House%20Dataset%20Solve)
+## The repository's chapter list:
 
+01. Introduction
+02. A Crash Course in Python
+03. Visualizing Data
+04. Linear Algebra
+05. Statistics
+06. Probability
+07. Hypothesis and Inference
+08. Gradient Descent
+09. Getting Data
+10. Working with Data
+11. Machine Learning
+12. k-Nearest Neighbors
+13. Naive Bayes
+14. Simple Linear Regression
+15. Multiple Regression
+16. Logistic Regression
+17. Decision Trees
+18. Neural Network
+19. Clustering
+20. Natural Language Processing
+21. Network Analysis
+22. Recommender System
+23. Databases and SQL
+24. MapReduce
+25. Go Forth and Do Data Science
 
-# Machine Learning Projects [:robot:](https://github.com/sabboshachi/Personal_Projects/tree/main/Machine%20Learning%20Projects)
+Throughout this journey, I will provide detailed explanations and insights after completing each chapter, making it an adventurous and thrilling experience for anyone interested in the world of AI and data science. Join me as we explore the fascinating realms of data science and machine learning together!
 
 
