@@ -8,7 +8,7 @@ In this repository, I am embarking on an exciting data science and machine learn
 -- Hands-on implementation of various models, such as k-nearest neighbors, Naive Bayes, linear and logistic regression, decision trees, neural networks, and clustering.
 -- Exploring advanced topics like recommender systems, natural language processing, network analysis, MapReduce, and databases.
 
-### The repository's chapter list:
+## The repository's chapter list:
 
 01. Introduction
 02. A Crash Course in Python
