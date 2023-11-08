@@ -1,5 +1,5 @@
 # Data Science from Scratch
-<img align="right" src="img/cover2.png" width="205" height="340" alt="image" />
+<img align="right" src="img/cover2.jpg" width="205" height="340" alt="image" />
 In this repository, I am embarking on an exciting data science and machine learning learning journey by following the insightful guidance of "Data Science from Scratch" by Joel Grus (Second Edition). This book serves as a comprehensive resource to master the foundational principles of data science and machine learning, and it offers a wide range of key features and chapters, including:
 
   - A swift introduction to Python for beginners.
