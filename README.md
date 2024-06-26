@@ -1,10 +1,9 @@
-# Data Science & Machine Learning Courses
+## Machine Learning Projects
 
-# Practice from Books
+## ML & DS Courses
 
-# Machine Learning Projects [:robot:](https://github.com/sabboshachi/Personal_Projects/tree/main/Machine%20Learning%20Projects)
+## Practice from Books
 
-
-# Research Papers
+## Research Papers
 
 
