@@ -1,6 +1,6 @@
 # Data Science from Scratch
-<img align="right" src="img/cover2.jpg" width="205" height="325" alt="image" />
-In this repository, I am embarking on an exciting data science and machine learning learning journey by following the insightful guidance of "Data Science from Scratch" by Joel Grus (Second Edition). This book serves as a comprehensive resource to master the foundational principles of data science and machine learning, and it offers a wide range of key features and chapters, including:
+<img align="right" src="img/cover2.jpg" width="205" height="310" alt="image" />
+In this repository, I am embarking on an exciting data science and machine learning journey by following the insightful guidance of "Data Science from Scratch" by Joel Grus (Second Edition). This book serves as a comprehensive resource to master the foundational principles of data science and machine learning, and it offers a wide range of key features and chapters, including:
 
   - A swift introduction to Python for beginners.
   - Essential concepts in linear algebra, statistics, and probability, providing a solid foundation for data science applications.
@@ -37,6 +37,6 @@ In this repository, I am embarking on an exciting data science and machine learn
 24. MapReduce
 25. Go Forth and Do Data Science
 
-Throughout this journey, I will provide detailed explanations and insights after completing each chapter, making it an adventurous and thrilling experience for anyone interested in the world of AI and data science. Join me as we explore the fascinating realms of data science and machine learning together!
+Throughout this journey, I will provide detailed explanations and insights after completing each chapter, making it an adventurous and thrilling experience for anyone interested in AI and data science. Join me as we explore the fascinating realms of data science and machine learning together!
 
 
